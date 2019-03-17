@@ -1,0 +1,11 @@
+{
+  "name": "playstation_paradise_host",
+  "version": "1.0.0",
+  "description": "Backend for PP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Vaibhav",
+  "license": "ISC"
+}
